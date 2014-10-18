@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "ziying95@hotmail.com",
+    "longName": "Pedometer",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Pedometer",
+    "uuid": "58b9bb22-122c-4e65-a7ac-9e11fa3dc927",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
